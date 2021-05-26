@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LineLibrary">
+      <HintPath>..\LineLibrary\bin\Debug\netcoreapp3.1\LineLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="SegmentLibrary">
+      <HintPath>..\SegmentLibrary\bin\Debug\netcoreapp3.1\SegmentLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
