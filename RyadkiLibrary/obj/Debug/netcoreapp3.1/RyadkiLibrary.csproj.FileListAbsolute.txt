@@ -1,9 +1,0 @@
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga6\RyadkiLibrary\bin\Debug\netcoreapp3.1\RyadkiLibrary.deps.json
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga6\RyadkiLibrary\bin\Debug\netcoreapp3.1\RyadkiLibrary.dll
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga6\RyadkiLibrary\bin\Debug\netcoreapp3.1\RyadkiLibrary.pdb
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga6\RyadkiLibrary\obj\Debug\netcoreapp3.1\RyadkiLibrary.csprojAssemblyReference.cache
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga6\RyadkiLibrary\obj\Debug\netcoreapp3.1\RyadkiLibrary.AssemblyInfoInputs.cache
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga6\RyadkiLibrary\obj\Debug\netcoreapp3.1\RyadkiLibrary.AssemblyInfo.cs
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga6\RyadkiLibrary\obj\Debug\netcoreapp3.1\RyadkiLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga6\RyadkiLibrary\obj\Debug\netcoreapp3.1\RyadkiLibrary.dll
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga6\RyadkiLibrary\obj\Debug\netcoreapp3.1\RyadkiLibrary.pdb
