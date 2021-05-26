@@ -1,9 +1,0 @@
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga5\LineLibrary\bin\Debug\netcoreapp3.1\LineLibrary.deps.json
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga5\LineLibrary\bin\Debug\netcoreapp3.1\LineLibrary.dll
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga5\LineLibrary\bin\Debug\netcoreapp3.1\LineLibrary.pdb
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga5\LineLibrary\obj\Debug\netcoreapp3.1\LineLibrary.csprojAssemblyReference.cache
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga5\LineLibrary\obj\Debug\netcoreapp3.1\LineLibrary.AssemblyInfoInputs.cache
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga5\LineLibrary\obj\Debug\netcoreapp3.1\LineLibrary.AssemblyInfo.cs
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga5\LineLibrary\obj\Debug\netcoreapp3.1\LineLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga5\LineLibrary\obj\Debug\netcoreapp3.1\LineLibrary.dll
-C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga5\LineLibrary\obj\Debug\netcoreapp3.1\LineLibrary.pdb
