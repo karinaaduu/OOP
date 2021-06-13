@@ -1,0 +1,13 @@
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga8\proga8\obj\Debug\netcoreapp3.1\proga8.AssemblyInfoInputs.cache
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga8\proga8\obj\Debug\netcoreapp3.1\proga8.AssemblyInfo.cs
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga8\proga8\obj\Debug\netcoreapp3.1\proga8.csproj.CoreCompileInputs.cache
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga8\proga8\bin\Debug\netcoreapp3.1\proga8.exe
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga8\proga8\bin\Debug\netcoreapp3.1\proga8.deps.json
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga8\proga8\bin\Debug\netcoreapp3.1\proga8.runtimeconfig.json
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga8\proga8\bin\Debug\netcoreapp3.1\proga8.runtimeconfig.dev.json
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga8\proga8\bin\Debug\netcoreapp3.1\proga8.dll
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga8\proga8\bin\Debug\netcoreapp3.1\proga8.pdb
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga8\proga8\obj\Debug\netcoreapp3.1\proga8.dll
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga8\proga8\obj\Debug\netcoreapp3.1\proga8.pdb
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga8\proga8\obj\Debug\netcoreapp3.1\proga8.genruntimeconfig.cache
+C:\Users\Карина\OneDrive\Робочий стіл\кпи блин !\звіти з програмування\proga8\proga8\obj\Debug\netcoreapp3.1\proga8.csproj.AssemblyReference.cache
